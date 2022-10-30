@@ -1,0 +1,15 @@
+﻿  source.cpp
+source.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+source.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+source.obj : error LNK2019: unresolved external symbol glutInitWindowPosition referenced in function main
+source.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+source.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+source.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+source.obj : error LNK2019: unresolved external symbol glutPostRedisplay referenced in function "void __cdecl KeyboardFunc(unsigned char,int,int)" (?KeyboardFunc@@YAXEHH@Z)
+source.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+source.obj : error LNK2019: unresolved external symbol glutReshapeFunc referenced in function main
+source.obj : error LNK2019: unresolved external symbol glutKeyboardFunc referenced in function main
+source.obj : error LNK2019: unresolved external symbol glutMouseFunc referenced in function main
+source.obj : error LNK2019: unresolved external symbol glutBitmapCharacter referenced in function "void __cdecl Display3(void)" (?Display3@@YAXXZ)
+glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\andre\source\repos\GC_3\x64\Debug\GC_3.exe : fatal error LNK1120: 12 unresolved externals

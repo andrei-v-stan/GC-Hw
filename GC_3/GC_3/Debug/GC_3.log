@@ -1,0 +1,58 @@
+﻿  source.cpp
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(177,9): error C2143: syntax error: missing ';' before '<'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(177,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(177,50): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(199,11): error C2143: syntax error: missing ';' before '<'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(199,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(199,34): error C2238: unexpected token(s) preceding ';'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(196,23): error C3861: 'min': identifier not found
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(44,15): error C2039: 'pixels': is not a member of 'GrilaCarteziana'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(28): message : see declaration of 'GrilaCarteziana'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(44,32): error C2065: 'pair': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(44,37): error C2062: type 'int' unexpected
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(45,9): error C2065: 'pair': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(45,14): error C2062: type 'int' unexpected
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(49,27): error C2065: 'pixels': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(49,1): error C3531: 'pixel': a symbol whose type contains 'auto' must have an initializer
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(49,25): error C2143: syntax error: missing ';' before ':'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(49,33): error C2143: syntax error: missing ';' before ')'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(57,24): error C2065: 'coord': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(57,37): error C2065: 'coord': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(57,1): error C2660: 'glVertex2d': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1467,25): message : see declaration of 'glVertex2d'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(60,51): error C2065: 'coord': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(60,87): error C2065: 'coord': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(60,1): error C2660: 'glVertex2d': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1467,25): message : see declaration of 'glVertex2d'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(93,9): error C2065: 'pair': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(93,14): error C2062: type 'int' unexpected
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(94,9): error C2065: 'pair': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(94,14): error C2062: type 'int' unexpected
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(98,20): error C2065: 'lineCoordStart': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(98,42): error C2065: 'lineCoordStart': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(98,1): error C2660: 'glVertex2i': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1471,25): message : see declaration of 'glVertex2i'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(99,20): error C2065: 'lineCoordEnd': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(99,40): error C2065: 'lineCoordEnd': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(99,1): error C2660: 'glVertex2i': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1471,25): message : see declaration of 'glVertex2i'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(109,22): error C3861: 'max': identifier not found
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(109,50): error C3861: 'min': identifier not found
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(128,26): error C3861: 'max': identifier not found
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(128,54): error C3861: 'min': identifier not found
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(136,9): error C2065: 'pair': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(136,14): error C2062: type 'int' unexpected
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(137,9): error C2065: 'pair': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(137,14): error C2062: type 'int' unexpected
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(141,20): error C2065: 'lineCoordStart': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(141,42): error C2065: 'lineCoordStart': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(141,1): error C2660: 'glVertex2i': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1471,25): message : see declaration of 'glVertex2i'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(142,20): error C2065: 'lineCoordEnd': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(142,40): error C2065: 'lineCoordEnd': undeclared identifier
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(142,1): error C2660: 'glVertex2i': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1471,25): message : see declaration of 'glVertex2i'
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(152,22): error C3861: 'max': identifier not found
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(152,50): error C3861: 'min': identifier not found
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(170,26): error C3861: 'max': identifier not found
+C:\Users\andre\source\repos\GC_3\GC_3\vs2010\source.cpp(170,54): error C3861: 'min': identifier not found
